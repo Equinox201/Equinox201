@@ -15,6 +15,9 @@ Beyond 42, I’m building AI-powered systems and exploring the intersection of:
 - Performance-critical applications
 
 I value autonomy, clean architecture, and deeply understanding what happens under the hood.
+<p align="center">
+  <img src="./assets/cub3d_screenshot.png" alt="project badge"/>
+</p>
 
 
 ## Connect With Me
@@ -30,10 +33,21 @@ I value autonomy, clean architecture, and deeply understanding what happens unde
     <img src="https://raw.githubusercontent.com/Equinox201/Escape_the_Dragon_Dungeon/main/assets/so_long_logo.png" width="200"/>
   </a>
 
-  <a href="https://github.com/Equinox201/Raycasting_Engine_Cub3D">
-    <img src="https://github.com/Equinox201/-Raycasting-Engine-cub3D/blob/main/assets/cub3d_logo.png" width="200"/>
+  <a href="https://github.com/Equinox201/Unix_Command_Shell">
+    <img src="https://github.com/Equinox201/Unix_Command_Shell/blob/main/assets/minishell_logo.png" width="200"/>
   </a>
 
+  <a href="https://github.com/Equinox201/Multi-threading_Dining_Philosophers">
+    <img src="https://github.com/Equinox201/Multi-threading_Dining_Philosophers/blob/main/assets/philo_logo.png" width="200"/>
+  </a>
+
+  <a href="https://github.com/Equinox201/Tower_of_Hanoi_Sorting_Algorithm">
+    <img src="https://github.com/Equinox201/Tower_of_Hanoi_Sorting_Algorithm/blob/main/assets/push_logo.png" width="200"/>
+  </a>
+
+  <a href="https://github.com/Equinox201/Escape_the_Dragon_Dungeon">
+    <img src="https://raw.githubusercontent.com/Equinox201/Escape_the_Dragon_Dungeon/main/assets/so_long_logo.png" width="200"/>
+  </a>
 
 </div>
 
