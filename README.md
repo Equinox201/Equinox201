@@ -27,8 +27,13 @@ I value autonomy, clean architecture, and deeply understanding what happens unde
 <div align="center">
 
   <a href="https://github.com/Equinox201/Escape_the_Dragon_Dungeon">
-    <img src="https://raw.githubusercontent.com/Equinox201/Escape_the_Dragon_Dungeon/main/assets/so_long_logo.png" width="120"/>
+    <img src="https://raw.githubusercontent.com/Equinox201/Escape_the_Dragon_Dungeon/main/assets/so_long_logo.png" width="200"/>
   </a>
+
+  <a href="https://github.com/Equinox201/Raycasting_Engine_Cub3D">
+    <img src="https://github.com/Equinox201/-Raycasting-Engine-cub3D/blob/main/assets/cub3d_logo.png" width="200"/>
+  </a>
+
 
 </div>
 
