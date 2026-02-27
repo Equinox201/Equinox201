@@ -15,10 +15,6 @@ Beyond 42, I’m building AI-powered systems and exploring the intersection of:
 - Performance-critical applications
 
 I value autonomy, clean architecture, and deeply understanding what happens under the hood.
-<p align="center">
-  <img src="./assets/cub3d_screenshot.png" alt="project badge"/>
-</p>
-
 
 ## Connect With Me
 
