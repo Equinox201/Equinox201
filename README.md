@@ -3,7 +3,7 @@
 I’m Nicolas, a 42 Singapore student transitioning from revenue strategy in hospitality into systems engineering and AI-driven software.
 
 My focus is building strong foundations first:
-- Writing memory-safe, predictable C code
+- Writing memory-safe C code
 - Understanding how software interacts with the OS
 - Debugging at the process and file descriptor level
 - Designing modular, testable architectures
