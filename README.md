@@ -26,7 +26,7 @@ I value autonomy, clean architecture, and deeply understanding what happens unde
 <div align="center">
 
   <a href="https://github.com/Equinox201/TimeTracker42">
-    <img src="https://github.com/Equinox201/TimeTracker42/assets/timetracker42_logo.png" width="200"/>
+    <img src="https://github.com/Equinox201/TimeTracker42/blob/main/assets/timetracker42_logo.png" width="200"/>
   </a>
 
 </div>
