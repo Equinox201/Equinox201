@@ -21,6 +21,16 @@ I value autonomy, clean architecture, and deeply understanding what happens unde
 - LinkedIn: https://www.linkedin.com/in/nicolas-samarine-781102143
 - Email: nick.samarine@yahoo.fr
 
+## Personal
+
+<div align="center">
+
+  <a href="https://github.com/Equinox201/Raycasting_Engine_Cub3D">
+    <img src="https://github.com/Equinox201/Raycasting_Engine_Cub3D/blob/main/assets/cub3d_logo.png" width="200"/>
+  </a>
+
+</div>
+
 ## Projects
 
 <div align="center">
