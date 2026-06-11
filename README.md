@@ -33,14 +33,23 @@ I value autonomy, clean architecture, and deeply understanding what happens unde
 
 ## Projects
 
+
 <div align="center">
 
-  <a href="https://github.com/Equinox201/Raycasting_Engine_Cub3D">
-    <img src="https://github.com/Equinox201/Raycasting_Engine_Cub3D/blob/main/assets/cube3d.png" width="200"/>
+  <a href="https://github.com/Equinox201/Containerized_Infrastructure-Inception">
+    <img src="https://github.com/Equinox201/Containerized_Infrastructure-Inception/blob/main/assets/inception.png" width="200"/>
+  </a>
+
+  <a href="https://github.com/Equinox201/Containerized_Infrastructure-Inception">
+    <img src="https://github.com/Equinox201/Containerized_Infrastructure-Inception/blob/main/assets/inception.png" width="200"/>
   </a>
 
   <a href="https://github.com/Equinox201/Unix_Command_Shell">
     <img src="https://github.com/Equinox201/Unix_Command_Shell/blob/main/assets/minishell.png" width="200"/>
+  </a>
+
+  <a href="https://github.com/Equinox201/Raycasting_Engine_Cub3D">
+    <img src="https://github.com/Equinox201/Raycasting_Engine_Cub3D/blob/main/assets/cube3d.png" width="200"/>
   </a>
 
   <a href="https://github.com/Equinox201/Multi-threading_Dining_Philosophers">
