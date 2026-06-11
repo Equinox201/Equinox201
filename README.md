@@ -26,7 +26,7 @@ I value autonomy, clean architecture, and deeply understanding what happens unde
 <div align="center">
 
   <a href="https://github.com/Equinox201/TimeTracker42">
-    <img src="https://github.com/Equinox201/TimeTracker42/blob/main/assets/timetracker42_logo.png" width="200"/>
+    <img src="https://github.com/Equinox201/TimeTracker42/blob/main/assets/timetracker.png" width="200"/>
   </a>
 
 </div>
@@ -36,23 +36,23 @@ I value autonomy, clean architecture, and deeply understanding what happens unde
 <div align="center">
 
   <a href="https://github.com/Equinox201/Raycasting_Engine_Cub3D">
-    <img src="https://github.com/Equinox201/Raycasting_Engine_Cub3D/blob/main/assets/cub3d_logo.png" width="200"/>
+    <img src="https://github.com/Equinox201/Raycasting_Engine_Cub3D/blob/main/assets/cube3d.png" width="200"/>
   </a>
 
   <a href="https://github.com/Equinox201/Unix_Command_Shell">
-    <img src="https://github.com/Equinox201/Unix_Command_Shell/blob/main/assets/minishell_logo.png" width="200"/>
+    <img src="https://github.com/Equinox201/Unix_Command_Shell/blob/main/assets/minishell.png" width="200"/>
   </a>
 
   <a href="https://github.com/Equinox201/Multi-threading_Dining_Philosophers">
-    <img src="https://github.com/Equinox201/Multi-threading_Dining_Philosophers/blob/main/assets/philo_logo.png" width="200"/>
+    <img src="https://github.com/Equinox201/Multi-threading_Dining_Philosophers/blob/main/assets/philo.png" width="200"/>
   </a>
 
   <a href="https://github.com/Equinox201/Tower_of_Hanoi_Sorting_Algorithm">
-    <img src="https://github.com/Equinox201/Tower_of_Hanoi_Sorting_Algorithm/blob/main/assets/push_logo.png" width="200"/>
+    <img src="https://github.com/Equinox201/Tower_of_Hanoi_Sorting_Algorithm/blob/main/assets/pushswap.png" width="200"/>
   </a>
 
   <a href="https://github.com/Equinox201/Escape_the_Dragon_Dungeon">
-    <img src="https://raw.githubusercontent.com/Equinox201/Escape_the_Dragon_Dungeon/main/assets/so_long_logo.png" width="200"/>
+    <img src="https://raw.githubusercontent.com/Equinox201/Escape_the_Dragon_Dungeon/main/assets/solong.png" width="200"/>
   </a>
 
 </div>
