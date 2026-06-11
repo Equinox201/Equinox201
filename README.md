@@ -36,8 +36,8 @@ I value autonomy, clean architecture, and deeply understanding what happens unde
 
 <div align="center">
 
-  <a href="https://github.com/Equinox201/Containerized_Infrastructure-Inception">
-    <img src="https://github.com/Equinox201/Containerized_Infrastructure-Inception/blob/main/assets/inception.png" width="200"/>
+  <a href="https://github.com/Equinox201/HTTP_Server-Webserv">
+    <img src="https://github.com/Equinox201/HTTP_Server-Webserv/blob/main/assets/webserv.png" width="200"/>
   </a>
 
   <a href="https://github.com/Equinox201/Containerized_Infrastructure-Inception">
