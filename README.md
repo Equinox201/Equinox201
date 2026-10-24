@@ -21,6 +21,19 @@ I value autonomy, clean architecture, and deeply understanding what happens unde
 - LinkedIn: https://www.linkedin.com/in/nicolas-samarine-781102143
 - Email: nick.samarine@yahoo.fr
 
+## Featured
+
+<div align="center">
+
+  <a href="https://github.com/Equinox201/SustainOps">
+    <img src="https://github.com/Equinox201/SustainOps/blob/main/assets/sustainops.png" width="200"/>
+  </a>
+
+</div>
+
+**SustainOps**: AI-assisted sustainability operations for hotels. Plans cite approved company documents, the server verifies every policy quotation, and each plan is reviewed and approved by a person. Full-stack TypeScript (Next.js, Postgres + pgvector), with tests, CI and a published evaluation.
+[Live demo](https://sustainops.vercel.app) · [Evaluation results](https://sustainops.vercel.app/evals) · [Source](https://github.com/Equinox201/SustainOps)
+
 ## Personal
 
 <div align="center">
