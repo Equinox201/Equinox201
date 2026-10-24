@@ -1,10 +1,12 @@
 # Hi, I'm Nicolas 👋
 
-**Software engineer with a hospitality revenue background, building governed, AI-assisted tools for hotels.**
-📍 Singapore · 🎓 [42 Singapore](https://42.fr/en/) · ⌨️ C/C++ → TypeScript → LLM systems
+**Software engineering · AI applications · hospitality technology**
+📍 Singapore · 🎓 [42 Singapore](https://42.fr/en/) · 🌍 English & French (native), Spanish (business)
 
-I come from hotel revenue strategy, so I know the operational problems first-hand.
+I came into software from hotel revenue management: Cluster Revenue Analyst at **Marriott International** (Hong Kong), then Director of Revenue Management & Sales at **Explorar Hotels & Resorts** (Thailand), with an MSc in International Hospitality Business from Glion. I know the operational problems first-hand.
 Now I engineer the solutions: from low-level C (memory, processes, file descriptors) up to full-stack TypeScript and AI systems that people can actually trust.
+
+🔨 **Currently:** [42 Singapore](https://42.fr/en/) final team project **Transcendence**, a five-person platform for comparing how inference-scheduling policies affect latency and system performance (Python/FastAPI, C++ simulation engine, JSON Schema contracts, WebSocket). I coordinate scope as PM and own the researcher-facing Console. It is in development.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicolas_Samarine-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-samarine-781102143)
 [![Email](https://img.shields.io/badge/Email-nick.samarine@yahoo.fr-555?logo=minutemailer&logoColor=white)](mailto:nick.samarine@yahoo.fr)
@@ -78,7 +80,7 @@ Built from scratch under strict constraints: no external libraries, manual memor
 <td align="center" valign="top" width="33%">
   <a href="https://github.com/Equinox201/HTTP_Server-Webserv"><img src="https://raw.githubusercontent.com/Equinox201/HTTP_Server-Webserv/main/assets/webserv.png" width="170" alt="Webserv"/></a><br/>
   <b><a href="https://github.com/Equinox201/HTTP_Server-Webserv">Webserv</a></b><br/>
-  <sub>HTTP/1.1 server in C++: sockets, I/O multiplexing, CGI, async request parsing</sub>
+  <sub>HTTP/1.1 server in C++: non-blocking I/O event loop, CGI, request parsing. Passed with bonus.</sub>
 </td>
 <td align="center" valign="top" width="33%">
   <a href="https://github.com/Equinox201/Unix_Command_Shell"><img src="https://raw.githubusercontent.com/Equinox201/Unix_Command_Shell/main/assets/minishell.png" width="170" alt="Minishell"/></a><br/>
@@ -130,3 +132,7 @@ Built from scratch under strict constraints: no external libraries, manual memor
 ## 🧭 How I work
 
 Predictable systems over clever hacks. Clear responsibility boundaries, defensive programming, explicit error handling, and evidence (tests, evaluations) over claims.
+
+## 🍜 Beyond code
+
+I cook, travel and write about it at **[NomadBowl](https://nomadbowls.cc)**, a site of recipes and stories from around the world. Outside the kitchen: triathlon training, piano, hiking and camping.
